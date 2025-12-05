@@ -17,3 +17,42 @@ nav a {
     font-weight: bold;
     color: black;
 }
+
+section {
+    margin: 40px 0;
+    background: #fff5a7;
+    padding: 20px;
+}
+
+.row {
+    display: flex;
+    gap: 20px;
+}
+
+img {
+    width: 200px;
+    height: 150px;
+    background: lightblue;
+}
+
+form {
+    background: #ffd1d1;
+    padding: 15px;
+}
+
+button {
+    padding: 10px 20px;
+}
+
+.message {
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.success {
+    background: #c8ffbf;
+}
+
+.error {
+    background: #ff9e9e;
+}
