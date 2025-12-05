@@ -56,3 +56,9 @@ button {
 .error {
     background: #ff9e9e;
 }
+
+footer {
+    background: #f4c531;
+    padding: 20px;
+    text-align: center;
+}

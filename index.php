@@ -47,4 +47,15 @@
     </div>
 </section>
 
+<footer>
+    Page web faite par nolan
+    <strong>
+        <?php
+            $premier_prenom = "baptiste";
+            echo $premier_prenom;
+        ?>
+    </strong>
+    venant de la base de données Php.
+</footer>
+
 </body>
